@@ -16,7 +16,7 @@ class ViewController: UIViewController,UIPickerViewDelegate,UIPickerViewDataSour
     
     var movieLists = ["Avengers: Infinity War","DEAD POOL2","Jurassic World: Fallen Kingdom","Quiet Place","The Greatest Showman","Kingsman: The Golden Circle","Justice League"]
     
-    var thoughts = ["次回作はよぉぉぉぉ！！","いろいろ汚いけど面白かった！","まだ始まってねーよ！","怖っわ...","いまのとこ今年1番！サントラ買おうぜ！！","安定の面白さ！","ワンダーウーマンめっちゃ強くね？って思ってたら、スーパーマンの方が強かったwww   バットマンは... otz..."]
+    var thoughts = ["次回作はよぉぉぉぉ！！","いろいろ汚いけど面白かった！","まだ始まってねーよ！","怖っわ...","いまのとこ今年1番！サントラ買おうぜ！！","安定の面白さ！","ワンダーウーマンめっちゃ強くね？って思ってたら、スーパーマンの方が強かったwww   バットマンは... otz...."]
     
     override func viewDidLoad() {
         super.viewDidLoad()
